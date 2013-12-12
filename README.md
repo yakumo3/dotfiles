@@ -1,4 +1,0 @@
-dotfiles
-========
-
-Control my dotfiles
